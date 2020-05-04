@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,YACE,kBAAmB,CACnB,UACF","file":"main.69f548e6.chunk.css","sourcesContent":["::selection {\n  background: #d33332;\n  color: white;\n}\n"]}
